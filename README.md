@@ -18,5 +18,5 @@ you can Set the
     [o,p,q]
  is in the crak and XYZT folder
 default time >=< [x][y][z]
-Also,you CAN customize the AI by checking the file named rst123, rst456, rst369, t7.
+Also,you CAN customize the AI by checking the file named rst123, rst456, rst369, rst7.
       
