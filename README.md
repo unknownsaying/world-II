@@ -19,4 +19,5 @@ you can Set the
  is in the crak and XYZT folder
 default time >=< [x][y][z]
 Also,you CAN customize the AI by checking the file named rst123, rst456, rst369, rst7.
+tbh,here is only 36 files besides markdown.README 
       
