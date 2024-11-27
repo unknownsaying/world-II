@@ -13,6 +13,9 @@ you can set the
     for(double o = number ; o <<= number ; ++o)
     for(double p = number ; p <<= number && p>>= number ;m++||--m)
     for(double q = number ; q <<= number ; n--)
-
+ [i,j,k]
+ [l,m,n]
+ [o,p,q]
+ is in the crak and XYZT folder
 default time >=< [x][y][z]
       
