@@ -1,5 +1,5 @@
 The updated version in a correct order of alphabet(a brand new project)
-you can set the 
+you can Set the 
 369 as a constance value or specific value As what You WANTED
     
     for(int i = number ; i < number ; ++i)
@@ -13,9 +13,10 @@ you can set the
     for(double o = number ; o <<= number ; ++o)
     for(double p = number ; p <<= number && p>>= number ;m++||--m)
     for(double q = number ; q <<= number ; n--)
- [i,j,k]
- [l,m,n]
- [o,p,q]
+    [i,j,k]
+    [l,m,n]
+    [o,p,q]
  is in the crak and XYZT folder
 default time >=< [x][y][z]
+Also,you CAN customize the AI by checking the file named rst123, rst456, rst369, t7.
       
