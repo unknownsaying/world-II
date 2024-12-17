@@ -11,7 +11,7 @@ you can Set the
     for(float n = number ; n <= number ; n--)
 
     for(double o = number ; o <<= number ; ++o)
-    for(double p = number ; p <<= number && p>>= number ;m++||--m)
+    for(double p = number ; p <<= number && p>>= number ;p++||--p)
     for(double q = number ; q <<= number ; n--)
     [i,j,k]
     [l,m,n]
