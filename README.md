@@ -16,6 +16,13 @@ you can Set the
     [i,j,k]
     [l,m,n]
     [o,p,q]
+
+Open String
+
+       ++A||B--
+Closed String 
+
+       A++||--B
  is in the crak and XYZT folder
 default 
      
