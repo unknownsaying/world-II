@@ -10,9 +10,9 @@ void Inventory1(){
     int z1=("!! !! !! !!")
     int t1=("@@ @@ @@ @@")
     do ( x1 * y1 * z1 ) / t1;
-    for(x1=0;x1=<1;++x1);
-    for(y1=0;y1=<1;++y1);
-    for(z1=0;z1=<1;++z1);
+    for(x1=0;x1<=1;++x1);
+    for(y1=0;y1<=1;++y1);
+    for(z1=0;z1<=1;++z1);
        while(x1 % y1 % z1);
        goto Inventory;
 }
