@@ -1,6 +1,6 @@
 #define tkji [t4][k][j][i]
 #define tnml [t5][n][m][l]
-#define qpot [t6][q][p][o]
+#define tqpo [t6][q][p][o]
 void rst456();{
     int i,j,k;
     float l,m,n;
