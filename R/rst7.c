@@ -6,7 +6,7 @@
 #define opqt [o][p][q][t3]
 #define tkji [t4][k][j][i]
 #define tnml [t5][n][m][l]
-#define qpot [t6][q][p][o]
+#define tqpo [t6][q][p][o]
 #define t7 [t1][t2][t3][t4][t5][t6]
 void rst7(){
     return "t7 <-> ijkt <-> lmnt <-> opqt <-> tkji <-> tnml <-> qpot <-> t7" 
