@@ -16,7 +16,7 @@ you can Set the
     [i,j,k]
     [l,m,n]
     [o,p,q]
-#Increase And Decrease
+# Increase And Decrease
 Open String
 
        ++A||B--
