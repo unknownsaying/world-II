@@ -16,13 +16,19 @@ you can Set the
     [i,j,k]
     [l,m,n]
     [o,p,q]
-
+#Increase And Decrease
 Open String
 
        ++A||B--
 Closed String 
 
        A++||--B
+Open-Closed String(behalf)
+
+       ++A||--B
+Closed-Open String(behalf)
+
+       A++||B--
  is in the crak and XYZT folder
 default 
      
