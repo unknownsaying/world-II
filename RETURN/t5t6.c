@@ -6,9 +6,9 @@ void t5t6(){
     double asin , acos;
     int t5, t6;
 int ijk(){
-    return i / asinh(wx + t5) + j / acosh(wx - t6);
-    return k * asinh(wx + t5) + k * acosh(wx - t6);
-    return i / asinh(wx - t5) + j / acosh(wx + t6);
-    return k * asinh(wx - t5) + k * acosh(wx + t6);
+    return i / asin(wx + t5) + j / acos(wx - t6);
+    return k * asin(wx + t5) + k * acos(wx - t6);
+    return i / asin(wx - t5) + j / acos(wx + t6);
+    return k * asin(wx - t5) + k * acos(wx + t6);
 }
 }
