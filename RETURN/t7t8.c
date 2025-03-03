@@ -1,6 +1,6 @@
 #include "../R/rst456.c"
 #include "../crak/lmn.c"
-void returnnnnn(){
+void t7t8(){
     char www;
     double ceil , floor;
     int t7, t8;
