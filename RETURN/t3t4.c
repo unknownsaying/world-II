@@ -3,7 +3,7 @@
 #include "../efgh/g.c"
 #include "../efgh/h.c"
 #include "math.h"
-void returnnn(){
+void t3t4(){
     char wx;
     double exp , log;
     int t3, t4;
