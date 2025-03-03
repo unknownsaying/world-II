@@ -10,8 +10,8 @@ void RETURN(){
             void t5t6(){
                 void t7t8(){
                     void t9t10(){
-                        void t11t12(){}
-                        return t1t2
+                        void t11t12(){
+                      return t1t2
                    }
                  return t3t4
                }
