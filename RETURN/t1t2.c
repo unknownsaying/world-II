@@ -3,7 +3,7 @@
 #include "../ABCD/C.c"
 #include "../ABCD/D.c"
 #include "math.h"
-void returnn(){
+void t1t2(){
     char wx;
     double sin,cos;
     int t1 , t2;
