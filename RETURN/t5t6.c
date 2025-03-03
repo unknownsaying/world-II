@@ -1,7 +1,7 @@
 #include "../R/rst123.c"
 #include "../crak/ijk.c"
 #include "math.h"
-void returnnnn(){
+void t5t6(){
     char wx;
     double asin , acos;
     int t5, t6;
