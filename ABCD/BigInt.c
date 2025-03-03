@@ -8,12 +8,12 @@ void BigIntArray(){
          float BigInt2048Array;
  } 
 void BigInt(){
-     float BigIntArray1 = 32;
-     float BigIntArray2 = 64;
-     float BigIntArray3 = 128;
-     float BigIntArray4 = 256;
-     float BigIntArray5 = 512;
-     float BigIntArray6 = 1024;
-     float BigIntArray7 = 2048;   
+     const BigIntArray1 = 32;
+     const BigIntArray2 = 64;
+     const BigIntArray3 = 128;
+     const BigIntArray4 = 256;
+     const BigIntArray5 = 512;
+     const BigIntArray6 = 1024;
+     const BigIntArray7 = 2048;   
  }
 
