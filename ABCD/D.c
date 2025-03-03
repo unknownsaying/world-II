@@ -2,7 +2,7 @@
 #define B4 11
 #define C4 12
 #define D4 0
-struct A{
+typedef struct {
    int A;
    int B;
    int C;
