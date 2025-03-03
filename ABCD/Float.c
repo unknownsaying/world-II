@@ -8,11 +8,11 @@ void FloatArray(){
          int Float1024Array;
      }
 void Float(){
-    int FloatArray0 = 16;
-    int FloatArray1 = 32;
-    int FloatArray2 = 64;
-    int FloatArray3 = 128;
-    int FloatArray4 = 256;
-    int FloatArray6 = 512;
-    int FloatArray7 = 1024;
+    const FloatArray0 = 16;
+    const FloatArray1 = 32;
+    const FloatArray2 = 64;
+    const FloatArray3 = 128;
+    const FloatArray4 = 256;
+    const FloatArray6 = 512;
+    const FloatArray7 = 1024;
  }
