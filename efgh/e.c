@@ -6,8 +6,8 @@
 #define trace
 #define VECTOR
 #define Scalar
-#define momentum
 #define tensor
+#define momentum
 #define AngularMomentum
 int e(){
   int m1 = 1,m2 = 2,m3 = 3,m4 = 4;
