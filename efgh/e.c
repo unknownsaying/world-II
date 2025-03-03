@@ -1,5 +1,7 @@
 #include "../ABCD/BigInt.c"
 #include "../ABCD/Float.c"
+#include "../InventorySlot/Inventory.c"
+#include "../InventorySlot/Slot.c"
 #define det
 #define trace
 #define VECTOR
@@ -16,10 +18,10 @@ int e(){
 //矢量
    void VECTOR(){
         const V=(0.25f, 0.25f, 0.25f)
-        char  E=(0.5f, 0.5f, 0.5f)
+        const E=(0.5f, 0.5f, 0.5f)
         const C=(0.75f, 0.75f, 0.75f)
-        char  T=(1.0f, 1.0f, 1.0f, 1.0f)
-        float OR = "||"
+        const T=(1.0f, 1.0f, 1.0f, 1.0f)
+        char OR = "||"
    }
 //标量
     void Scalar(){
@@ -77,7 +79,7 @@ int e(){
             "|_|_|_| |_|_|_| |_|_|_|"
    void tt(){
          int(ijk)->float(lmn)->double(opq)<->long double R(rst123(rst456(rst7)))->
-         signed long int(abcdefg)->unsiged long long int(Inventory)
+         signed long int(abcdefg)->unsigned long long int(Inventory)
          }
    void math(){
         sin(i)->cos(j)->asin(l)->acos(m)->sh(o)->ch(p)->tan(k)->atan(n)->atanh(q)
