@@ -5,7 +5,7 @@ void rst456();{
     int i,j,k;
     float l,m,n;
     double o,p,q;
-struct    {
+typedef struct {
     extern k -> j -> i -> t4;
     extern q -> p -> o -> t5;
     extern n -> m -> l -> t6;
