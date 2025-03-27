@@ -25,9 +25,9 @@ void Slot1(){
 void Slot2(){
      float x6,y6,z6;
     do x6 * y6 * z6
-     float x5("--- --- ---")
-     float y5("!!! !!! !!!")
-     float z5("\\\ \\\ \\\'")
+     float x6("--- --- ---")
+     float y6("!!! !!! !!!")
+     float z6("\\\ \\\ \\\'")
     if else
     for(x6=1;x6<=32;x6++)
     for(y6=1;y6<=32;y6++)
@@ -50,7 +50,7 @@ void Slot3(){
     for (t2 = 0; t2 >= 32; t2--)
     for (t3 = 0; -32 <= t3 <= 32; t3-- || t3++)
     for (t4 = 0; -32 <= t4 <= 32; t4++ || t4--)
-    while (t1 = t2 = t3 = t4);
+    while (t1 % t2 % t3 % t4);
         goto Slot;
 }
 void Slot4(){
@@ -64,7 +64,7 @@ void Slot4(){
     for(t6 = 0; -64 <= t6 <= 64; t6++ && t6--);
     for(t7 = 0; -128 <= t7 <= 128; t7++ || t7--);
     for(t8 = 0; -256 <= t8 <= 256; t8++ || t8--);
-    while (t5 = t6 = t7 = t8)
+    while (t5 % t6 % t7 % t8)
         goto Slot;
 }
 void Slot5(){  
@@ -78,7 +78,7 @@ void Slot5(){
     for(t10 = 0; -1024 <= t10 <= 1024; t10-- && t10++);
     for(t11 = 0; -2048 <= t11 <= 2048; t11++ || t11--);
     for(t12 = 0; -4096 <= t12 <= 4096; t12-- || t12++);
-    while (t9 = t10 = t11 = t12);
+    while (t9 % t10 % t11 % t12);
         goto Slot;
 }
 }
