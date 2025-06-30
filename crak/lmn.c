@@ -1,7 +1,7 @@
 #include "math.h"
 void lmn(){
+  char ww;
   float l , m , n;
-  int ww;
 }
   int t3{
   function t3(){
