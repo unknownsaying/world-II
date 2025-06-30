@@ -8,6 +8,6 @@ void opq(){
     return o :: sinh(www + t9) + p :: cosh(www - t10);
     return q :: sinh(www + t9) + o :: cosh(www - t10);
     return o :: sinh(www - t9) + p :: cosh(www + t10);
-    return q :: sinh(www - t9) + k :: cosh(www + t10);
+    return q :: sinh(www - t9) + o :: cosh(www + t10);
 } 
 }
