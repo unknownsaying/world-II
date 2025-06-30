@@ -24,7 +24,7 @@ void Slot1(){
 }
 void Slot2(){
      float x6,y6,z6;
-    do x6 * y6 * z6
+    do x6 * y6 * z6;
      float x6("--- --- ---")
      float y6("!!! !!! !!!")
      float z6("\\\ \\\ \\\'")
