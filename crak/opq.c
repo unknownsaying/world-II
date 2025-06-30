@@ -1,8 +1,7 @@
 #include "math.h"
-void main()
-{
-  double o ,q ,p;
-  char www;
+void main(){
+    char www;
+    double o ,q ,p;
 }
 int t5{
    function t5(){
